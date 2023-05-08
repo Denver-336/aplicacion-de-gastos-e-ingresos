@@ -1,0 +1,11 @@
+.col-transaction-form {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+  
+}
+
+.col-form {
+  margin-top: 4rem;
+}
